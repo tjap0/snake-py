@@ -22,4 +22,4 @@ Mērķis ir ēst pārtiku (attēlotu kā zaļu kvadrātu), lai palielinātu zvē
 Nepieciešams izvairīties no saskares ar zvēra asti vai ar ekrāna malām, pretējā gadījumā spēle beigsies.
 
 Atzinība
-Spēle "Змейка" ir vienkārša, taču atkarību rada arkādes spēle, kas var izklaidēt stundām ilgi! Uz priekšu, mēģiniet pārspēt savu iepriekšējo rekordu un baudiet spēli!
+Spēle "Snake" ir vienkārša, taču atkarību rada arkādes spēle, kas var izklaidēt stundām ilgi! Uz priekšu, mēģiniet pārspēt savu iepriekšējo rekordu un baudiet spēli!
